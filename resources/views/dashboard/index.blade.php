@@ -17,10 +17,10 @@
                     <div class="page-header-subtitle">Example dashboard overview and content summary</div>
                 </div>
                 <div class="col-12 col-xl-auto mt-4">
-                    <div class="input-group input-group-joined border-0" style="width: 16.5rem">
+                    <!-- <div class="input-group input-group-joined border-0" style="width: 16.5rem">
                         <span class="input-group-text"><i class="text-primary" data-feather="calendar"></i></span>
                         <input class="form-control ps-0 pointer" id="litepickerRangePlugin" placeholder="Select date range..." />
-                    </div>
+                    </div> -->
                 </div>
             </div>
         </div>
@@ -30,7 +30,7 @@
 <!-- Main page content -->
 <div class="container-xl px-4 mt-n10">
     <!-- Example Colored Cards for Dashboard Demo -->
-    <div class="row">
+    <!-- <div class="row">
         <div class="col-lg-6 col-xl-3 mb-4">
             <div class="card bg-primary text-white h-100">
                 <div class="card-body">
@@ -99,9 +99,9 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Example Charts for Dashboard Demo -->
-    <div class="row">
+    <!-- <div class="row">
         <div class="col-xl-6 mb-4">
             <div class="card card-header-actions h-100">
                 <div class="card-header">
@@ -144,7 +144,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 </div>
 @endsection
 
